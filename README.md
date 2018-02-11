@@ -1,5 +1,5 @@
 ### Docker官方仓库.
-[官方仓库地址](https://hub.docker.com/explore/)
+[官方镜像仓库](https://hub.docker.com/explore/)
 
 ### Docker
 ```javascript
